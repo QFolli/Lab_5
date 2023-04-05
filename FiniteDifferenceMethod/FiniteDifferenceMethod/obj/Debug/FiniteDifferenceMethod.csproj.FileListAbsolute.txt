@@ -1,0 +1,7 @@
+C:\Users\xxxxx\source\repos\FiniteDifferenceMethod\FiniteDifferenceMethod\bin\Debug\FiniteDifferenceMethod.exe.config
+C:\Users\xxxxx\source\repos\FiniteDifferenceMethod\FiniteDifferenceMethod\bin\Debug\FiniteDifferenceMethod.exe
+C:\Users\xxxxx\source\repos\FiniteDifferenceMethod\FiniteDifferenceMethod\bin\Debug\FiniteDifferenceMethod.pdb
+C:\Users\xxxxx\source\repos\FiniteDifferenceMethod\FiniteDifferenceMethod\obj\Debug\FiniteDifferenceMethod.csproj.AssemblyReference.cache
+C:\Users\xxxxx\source\repos\FiniteDifferenceMethod\FiniteDifferenceMethod\obj\Debug\FiniteDifferenceMethod.csproj.CoreCompileInputs.cache
+C:\Users\xxxxx\source\repos\FiniteDifferenceMethod\FiniteDifferenceMethod\obj\Debug\FiniteDifferenceMethod.exe
+C:\Users\xxxxx\source\repos\FiniteDifferenceMethod\FiniteDifferenceMethod\obj\Debug\FiniteDifferenceMethod.pdb
